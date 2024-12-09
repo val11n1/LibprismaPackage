@@ -21,7 +21,6 @@
 -(id)init;
 -(NSAttributedString *)syntax:(NSString *)code language: (NSString *)language theme:(SyntaxterTheme *) theme;
 - (NSString *)languageNameWith:(NSString *)lang;
-- (void)testFunc;
 
 @end
 

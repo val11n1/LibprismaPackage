@@ -1,0 +1,6 @@
+framework module libprisma {
+  umbrella header "libprisma.h"
+  export *
+
+  module * { export * }
+}
